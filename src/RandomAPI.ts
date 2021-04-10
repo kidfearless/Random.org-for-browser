@@ -70,7 +70,7 @@ export class RandomAPI
 		}
 
 		// throw an error if it's not
-		throw new Error(result.error);
+		return Promise.reject(result.error);
 	}
 
 	/**
