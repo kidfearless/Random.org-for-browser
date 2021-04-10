@@ -10,5 +10,5 @@ let randomInts = await api.GenerateIntegers({min: 0, max: 100, n: 100});
 let randomDoubles = await api.GenerateDecimals({n: 1000, decimalPlaces: 14});
 ```
 
-If you like this repo and want to support me you can always buy me a pizze 😁
+If you like this repo and want to support me you can always buy me a pizza 😁
 <a href="https://www.buymeacoffee.com/kidfearless" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
