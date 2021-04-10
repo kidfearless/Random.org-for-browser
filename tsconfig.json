@@ -1,0 +1,23 @@
+{
+	"compilerOptions": {
+	  "sourceMap": true,
+	  "module": "esnext",
+	  "esModuleInterop": true,
+	  "experimentalDecorators": true,
+	  "target": "es2017",
+	  "jsx": "react",
+	  "strictPropertyInitialization": true,
+	  "strictNullChecks": true,
+	  "strictBindCallApply": true,
+	  "removeComments": true,
+	  "pretty": true,
+	  "lib": [
+		"dom",
+		"es6",
+	  ],
+	  "alwaysStrict": true,
+	  "outDir": "./dist/",
+	  "rootDir": "./src/"
+	},
+	"compileOnSave": true
+}
